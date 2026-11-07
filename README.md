@@ -1,2 +1,2 @@
-Hier entsteht die optionale Monitoring-App für RentnerProxy.
-Geplant sind Verfügbarkeit, Antwortzeiten, Ausfallhistorie und später Prometheus.
+This repository will contain an optional monitoring app for RentnerProxy.
+It will track availability, response times, outage history, and Prometheus metrics.
